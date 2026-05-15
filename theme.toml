@@ -1,0 +1,7 @@
+name = "Micro.bob"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A warm, minimal Micro.blog theme by Robert Birming."
+homepage = "https://robertbirming.com"
+tags = ["blog", "minimal", "responsive"]
+features = ["blog"]
